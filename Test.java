@@ -1,4 +1,3 @@
-package com.baidu;
 
 public class Test {
     private String name;
