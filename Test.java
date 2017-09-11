@@ -5,6 +5,10 @@ public class Test {
     private Integer age;
     private String phoneNum;
 
+    public void aa(){
+
+    }
+
     public String getName() {
         return name;
     }
