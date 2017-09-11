@@ -13,7 +13,7 @@ public class Test {
         return name;
     }
 
-    public void setName(String na2me) {
+    public void setName(String na32me) {
         this.name = name;
     }
 
