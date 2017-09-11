@@ -10,10 +10,11 @@ public class Test {
     }
 
     public String getName() {
+        String aa = "1";
         return name;
     }
 
-    public void setName(String na32me) {
+    public void setName(String na324me) {
         this.name = name;
     }
 
