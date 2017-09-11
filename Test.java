@@ -13,7 +13,7 @@ public class Test {
         return name;
     }
 
-    public void setName(String na1me) {
+    public void setName(String na2me) {
         this.name = name;
     }
 
