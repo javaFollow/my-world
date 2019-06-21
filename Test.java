@@ -9,7 +9,7 @@ public class Test {
 
     }
 
-    // 这是啥啊啊啊aaa
+    // 大家好才是真的好
     public String getName() {
         String aa = "123666";
         return name;
